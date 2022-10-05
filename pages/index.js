@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-         <H1 Assales Amokrane, 2047462, AppWeb 2, Patrick Pierre. Facile>
+         <h1> Assales Amokrane, 2047462, AppWeb 2, Patrick Pierre. Facile</h1>
 
         </p>
       </main>
