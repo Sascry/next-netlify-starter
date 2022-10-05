@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         <H1 Assales Amokrane, 2047462, AppWeb 2, Patrick Pierre. Facile>
+
         </p>
       </main>
 
